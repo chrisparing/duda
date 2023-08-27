@@ -1,0 +1,7 @@
+python_version >= 3.10
+pandas >= 1.4.4
+matplotlib >= 3.5.2
+seaborn >= 0.11.2
+missingno >= 0.5.2
+pingouin >= 0.5.3
+statsmodels >= 0.13.2
